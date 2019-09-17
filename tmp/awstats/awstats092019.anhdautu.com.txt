@@ -1,0 +1,668 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/anhdautu/tmp/awstats/awstats.anhdautu.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2692                
+POS_VISITOR 17581               
+POS_DAY 20925               
+POS_DOMAIN 3478                
+POS_LOGIN 3906                
+POS_ROBOT 4061                
+POS_WORMS 4704                
+POS_EMAILSENDER 4835                
+POS_EMAILRECEIVER 4978                
+POS_SESSION 21150               
+POS_SIDER 21346               
+POS_FILETYPES 5113                
+POS_DOWNLOADS 5516                
+POS_OS 5615                
+POS_BROWSER 5844                
+POS_SCREENSIZE 6472                
+POS_UNKNOWNREFERER 6546                
+POS_UNKNOWNREFERERBROWSER 7298                
+POS_ORIGIN 7833                
+POS_SEREFERRALS 7973                
+POS_PAGEREFS 8117                
+POS_SEARCHWORDS 8396                
+POS_KEYWORDS 8548                
+POS_MISC 2356                
+POS_ERRORS 8607                
+POS_CLUSTER 3762                
+POS_SIDER_404 8777                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190916144348 447 119261 11668363296059
+FirstTime 20190911144356
+LastTime 20190916143346
+LastUpdate 20190916151628 447 0 447 0 0
+TotalVisits 94                  
+TotalUnique 67                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 90                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 4 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 167640 0 0 0
+1 2 25 277822 1 11 156290
+2 3 3 64789 4 4 78541
+3 1 1 9244 0 0 0
+4 1 1 0 6 38 455868
+5 3 3 26532 2 36 324993
+6 9 125 5025490 20 141 1128614
+7 1 1 9207 3 12 26118
+8 55 60 667193 19 63 131047
+9 66 76 587066 21 108 1028483
+10 66 272 32584316 57 305 3323195
+11 141 157 23307804 70 258 952185
+12 8 80 2570524 6 14 60906
+13 97 139 3685540 78 256 553237
+14 55 149 3257183 41 127 639687
+15 285 747 23601159 156 428 1509439
+16 330 611 21873954 52 482 3011829
+17 159 534 16271608 58 247 3539606
+18 5 26 1299509 0 2 394506
+19 1 1 9246 3 14 40454
+20 9 61 1908715 7 37 98448
+21 6 6 213866 0 3 16509
+22 36 91 2123921 15 33 66360
+23 2 32 415473 4 7 29489
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+vn 1201 2438 115695076
+us 66 470 16463733
+ma 47 100 1571170
+ca 6 6 213866
+fr 6 6 197315
+ru 5 5 142370
+gb 4 58 2161680
+cn 3 43 910799
+ro 2 54 2140127
+nl 2 2 65783
+sg 1 1 33528
+es 1 21 295880
+no 1 1 33237
+de 1 1 33237
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 221 2078188 20190915125326 3
+facebookexternalhit/ 64 4587508 20190915181421 0
+aiHitBot/ 41 453692 20190916144348 1
+bot[\s_+:,\.\;\/\\-] 23 62843 20190916074206 18
+(firefox/)([0-9]\.|[0-1][0]\.) 12 44407 20190911160821 0
+YandexBot/ 7 50381 20190915231402 3
+unknown 4 96 20190913212717 4
+bingpreview 3 99311 20190914023208 0
+no_user_agent 3 99614 20190915044736 0
+bingbot/ 2 9269 20190915102420 1
+SemrushBot/ 2 9267 20190915172354 1
+baidu 1 33528 20190914023208 0
+Baiduspider/ 1 9236 20190916020236 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+sql 1 66068 0 0
+php 713 5263798 0 0
+gif 78 4350184 0 0
+woff 1 90412 0 0
+js 695 10773390 0 0
+ttf 1 152796 0 0
+jpg 352 74518197 0 0
+html 320 3869619 0 0
+woff2 27 1847256 0 0
+zip 1 9672480 0 0
+svg 6 3081 0 0
+xml 1 4451 0 0
+Unknown 281 2072664 0 0
+css 371 3482734 0 0
+jpeg 6 1596180 0 0
+png 350 9768522 0 0
+rar 1 12425760 0 0
+shtml 1 209 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/public_html.rar 1 0 12425760
+/web.zip 1 0 9672480
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx10 1 1
+win8 1 0
+macosx 13 2
+win8.1 25 4
+win7 1908 1166
+linuxandroid 411 40
+win10 198 27
+Unknown 134 71
+macosx11 2 2
+ios_iphone 221 13
+linux 289 17
+winxp 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+chrome75.0.3770.160 54 2
+chrome74.0.3729.131 1 1
+Unknown 47 38
+chrome53.0.2785.143 2 2
+safari12.1.1 1 1
+msie8.0 3 3
+chrome76.0.3809.100 1 1
+chrome77.0.3865.73 61 6
+chrome32.0.1667.0 1 0
+chrome45.0.2454.94 1 1
+iphone 109 5
+firefox66.0 1 1
+safari12.1.2 57 5
+chrome76.0.3809.132 2372 1213
+chrome71.0.3578.80 1 1
+chrome65.0.3325.146 1 1
+mozilla 88 34
+chrome23.0.1271.95 4 4
+safari9.0 54 2
+firefox58.0 5 5
+chrome71.0.3578.98 21 1
+android 43 3
+msie11.0 24 3
+safari 54 2
+firefox60.0 54 2
+chrome69.0.3494.0 31 1
+chrome45.0.2454.101 1 1
+chrome74.0.3729.157 58 4
+chrome67.0.3396.87 56 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+WordPress/4.8.10;_http://anhdautu.com 20190911164650
+WordPress/5.2.3;_http://anhdautu.com/wp 20190911144356
+python-requests/2.22.0 20190915153517
+python-requests/2.21.0 20190915154518
+WordPress/4.8.5;_http://anhdautu.com 20190911162921
+adreview/1.0 20190913155834
+Go-http-client/1.1 20190916085037
+python-requests/2.18.4 20190913182428
+Mozilla/5.0_(compatible;_ips-agent) 20190913054159
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190914173546
+WordPress/5.2.3;_http://anhdautu.com 20190912080108
+cortex/1.0 20190913155836
+Cpanel-HTTP-Client/1.0 20190911220708
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20190911220714
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+WordPress/4.8.10;_http://anhdautu.com 20190911164650
+python-requests/2.22.0 20190915153517
+WordPress/5.2.3;_http://anhdautu.com/wp 20190911144356
+python-requests/2.21.0 20190915154518
+WordPress/4.8.5;_http://anhdautu.com 20190911162921
+adreview/1.0 20190913155834
+Go-http-client/1.1 20190916085037
+WordPress/5.2.3;_http://anhdautu.com 20190912080108
+python-requests/2.18.4 20190913182428
+cortex/1.0 20190913155836
+Cpanel-HTTP-Client/1.0 20190911220708
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 188 250
+From1 0 0
+From2 0 0
+From3 7 7
+From4 1151 2949
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://m.facebook.com 4 4
+https://l.facebook.com 1 1
+https://hv25-24818.azdigi.com:2083 1 1
+https://hv25-24818.azdigi.com:2087 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 3 401057
+302 117 19677
+404 2026 9471902
+403 3 3417
+301 14 1322
+503 14 15540
+500 55 115549
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 111
+/wp-content/uploads/2017/10/can-ho-du-an-imperial-plaza-giai-phong.png 19 http://anhdautu.com/tien-do/
+/wp-content/uploads/2017/07/chi-tiet-toa-ip3-chung-cu-imperial-plaza-768x394.png 13 http://anhdautu.com/
+/wp-content/uploads/2017/07/chi-tiet-can-ho-chung-cu-giai-phong.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/tien-do-thanh-toan-du-an-imperial-plaza-giai-phong.png 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/TONG-QUANG-DU-AN-PD-GREEN-PARK-150x150.jpg 10 http://anhdautu.com/tien-do/
+/public/assets/js/backend/area.js 60 http://anhdautu.com/du-an/can-ho-chung-cu-flc-tropical-city-ha-long-58.html
+/wp-content/uploads/2017/10/khong-gian-xung-quanh-du-an-imperial-plaza.png 1 http://anhdautu.com/239-2/
+/ 1 -
+/wp-content/uploads/2017/07/phong-khach-can-ho-mau-imperial-plaza.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/08/suc-hut-cua-PD-Green-park-04-150x150.jpg 10 http://anhdautu.com/tien-do/
+/uploads/images/IMG_20170421_173017.jpg 238 http://anhdautu.com/admin/post/58/edit
+/wp-content/uploads/2017/07/chung-cu-imperial-plaza-giai-phong.png 15 http://anhdautu.com/
+/wp-content/uploads/2017/07/chi-tiet-can-ho-03-10-chung-cu-imperial.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/vi-tri-dac-dia-tai-chung-cu-360-giai-phong-768x463.png 9 http://anhdautu.com/
+/wp-content/uploads/2017/07/chi-tiet-toa-ip3-chung-cu-imperial-plaza.png 2 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/PD-Green-Park-3-150x150.jpg 10 http://anhdautu.com/tien-do/
+/wp-content/uploads/2017/07/Cong-vien-Yen-So-gan-du-an-pd-green-park-768x576-150x150.jpg 12 http://anhdautu.com/tien-do/
+/uploads/images/slide/company-02.jpg 75 http://anhdautu.com/
+/du-an/js/jquery-1.11.0.min.js 1 -
+/wp-content/uploads/2017/07/chung-cu-imperial-plaza-giai-phong-1-768x475.png 11 http://anhdautu.com/
+/wp-content/uploads/2017/07/mat-bang-chi-tiet-chung-cu-imperial-giai-phong.png 2 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/mat-bang-can-ho-chung-cu-imperial-plaza-768x432.jpg 8 http://anhdautu.com/
+/wp-content/uploads/2017/07/can-ho-mau-chung-cu-360-giai-phong-768x431.jpg 7 http://anhdautu.com/
+/ads.txt 1 -
+/wp-content/uploads/2017/07/MB-toa-IP3.jpg 2 http://anhdautu.com/wp-admin/post.php
+/uploads/images/slide/company-08.jpg 74 http://anhdautu.com/
+/wp-content/uploads/2017/07/chi-tiet-can-ho-chung-cu-giai-phong-768x547.jpg 8 http://anhdautu.com/
+/uploads/images/admin/original.jpg 13 http://anhdautu.com/admin/slide2
+/du-an/js/plugins.js 1 -
+/uploads/images/slide/34.jpeg 72 http://anhdautu.com/
+/wp-content/uploads/2017/07/vi-tri-dac-dia-tai-chung-cu-360-giai-phong.png 1 http://anhdautu.com/wp-admin/post.php
+/img/bg.png 59 http://anhdautu.com/css/style.css
+/wp-content/uploads/2017/07/tien-do-thanh-toan-du-an-imperial-plaza-giai-phong-768x432.png 7 http://anhdautu.com/
+/wp-content/uploads/2017/09/tien-ich-pd-green-park-phuong-dong-150x150.jpg 11 http://anhdautu.com/tien-do/
+/wp-content/uploads/2017/07/chung-cu-pd-green-park-01-150x150.jpg 10 http://anhdautu.com/tien-do/
+/cart.json 1 -
+/wp-content/uploads/2017/07/mat-bang-chi-tiet-chung-cu-360-giai-phong-768x377.png 14 http://anhdautu.com/
+/du-an/js/jquery.downCount.js 1 -
+/du-an/js/jquery.dlmenu.js 1 -
+/wp-content/uploads/2017/07/can-ho-mau-chung-cu-360-giai-phong.jpg 1 http://anhdautu.com/wp-admin/post.php
+/du-an/js/jquery.accordion.js 1 -
+/wp-content/uploads/2017/10/baner-chu-dau-tu-imperial-plaza.png 20 http://anhdautu.com/tien-do/
+/img/skype.png 26 http://anhdautu.com/
+/du-an/js/jquery-filterable.js 1 -
+/images/img/t01.png 45 http://anhdautu.com/css/styles.css
+/du-an/js/range-slider.js 1 -
+/uploads/images/slide/company-11.jpg 77 http://anhdautu.com/
+/wp-content/uploads/2017/07/phong-ngu-can-ho-mau-imperial-plaza-giai-phong.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp/ 1 -
+/du-an/js/custom.js 1 -
+/wp-content/uploads/2017/07/quy-mo-du-an-360-giai-phong.png 2 http://anhdautu.com/wp-admin/post.php
+/uploads/images/slide/company-04.jpg 74 http://anhdautu.com/
+/uploads/images/slide/company-03.jpg 73 http://anhdautu.com/
+/wp-content/uploads/2017/07/chi-tiet-can-ho-du-an-imperial-giai-phong.png 2 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/mat-bang-can-ho-chung-cu-imperial-plaza.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/10/be-boi-chung-cu-imperial-plaza.png 20 http://anhdautu.com/tien-do/
+/img/opop_hotenban.png 46 http://anhdautu.com/css/style.css
+/uploads/images/slide/company-05.jpg 75 http://anhdautu.com/
+/du-an/js/modernizr.custom.js 1 -
+/wp-content/uploads/2017/07/Tien-do-thanh-toan-IP3-moi-768x432.jpg 11 http://anhdautu.com/
+/wp-content/uploads/2017/10/chung-cu-imperial-plaza-360-giai-phong.png 21 http://anhdautu.com/tien-do/
+/wp/wp-admin 1 -
+/wp-content/uploads/2017/07/mat-bang-chi-tiet-chung-cu-360-giai-phong-1024x502.png 1 http://anhdautu.com/
+/robots.txt 4 -
+/du-an/js/owl.carousel.js 1 -
+/wp-content/uploads/2017/07/MB-toa-IP3-768x670.jpg 14 http://anhdautu.com/
+/du-an/js/bootstrap.js 1 -
+/du-an/js/chosen.jquery.min.js 1 -
+/wp-content/uploads/2017/07/chung-cu-imperial-plaza-giai-phong-1.png 2 http://anhdautu.com/wp-admin/post.php
+/du-an/js/jquery.maphilight.js 1 -
+/wp-content/uploads/2017/07/mat-bang-chi-tiet-chung-cu-imperial-giai-phong-768x377.png 14 http://anhdautu.com/
+/wp-content/uploads/2017/08/du-an-pd-green-park-150x150.jpg 11 http://anhdautu.com/tien-do/
+/installer.php 10 -
+/wp-content/uploads/2017/07/mat-bang-dien-hinh-toa-ip2-imperial-plaza.png 2 http://anhdautu.com/wp-admin/post.php
+/uploads/images/admin/secure.jpg 13 http://anhdautu.com/admin/slide2
+/wp-content/uploads/2017/07/quy-mo-du-an-360-giai-phong-768x519.png 10 http://anhdautu.com/
+/api/common 349 http://anhdautu.com/gioi-thieu.html
+/du-an/js/scripts.js 1 -
+/uploads/images/admin/19.jpg 13 http://anhdautu.com/admin/slide2
+/wp-content/uploads/2017/10/chung-cu-imperial-plaza-giai-phong-768x447.png 1 http://anhdautu.com/239-2/
+/wp-content/uploads/2017/07/phong-khach-can-ho-mau-imperial-plaza-768x433.jpg 8 http://anhdautu.com/
+/wp-content/uploads/2017/07/phong-ngu-can-ho-mau-imperial-plaza-giai-phong-768x433.jpg 7 http://anhdautu.com/
+/wp-content/uploads/2017/07/phoi-canh-phuong-dong-green-park-150x150.jpg 10 http://anhdautu.com/tien-do/
+/img/opop_sdt.png 46 http://anhdautu.com/css/style.css
+/wp-content/uploads/2017/07/trung-tam-thuong-mai-imperial-plaza-768x512.jpg 1 http://anhdautu.com/tien-ich-du-an/
+/wp-content/uploads/2017/07/Tien-do-thanh-toan-IP3-moi.jpg 2 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/chi-tiet-can-ho-chung-cu-imperial-plaza.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/chi-tiet-can-ho-03-10-chung-cu-imperial-768x548.jpg 8 http://anhdautu.com/
+/wp-content/uploads/2017/10/logo-imperial-plaza-giai-phong.png 20 http://anhdautu.com/
+/wp-content/uploads/2017/07/khong-gian-xung-quanh-chung-cu-imperial-plaza-768x432.jpg 8 http://anhdautu.com/
+/wp-content/uploads/2017/08/chung-cu-pd-green-park-01-150x150.jpg 12 http://anhdautu.com/tien-do/
+/du-an/js/global.js 1 -
+/wp-content/uploads/2017/07/chung-cu-imperial-plaza-giai-phong-1-150x150.png 11 http://anhdautu.com/tien-do/
+/wp-content/uploads/2017/07/he-thong-tien-ich-chung-cu-imperial-plaza.png 10 http://anhdautu.com/
+/du-an/js/frontend.js 1 -
+/uploads/images/Hotline1.gif 34 http://anhdautu.com/
+/uploads/images/IMG_20161024_004430.jpg 2 http://anhdautu.com/admin/admin
+/wp-content/uploads/2017/07/chi-tiet-can-ho-du-an-imperial-giai-phong-768x377.png 11 http://anhdautu.com/
+/wp-content/uploads/2017/08/chung-cu-green-park3-150x150.jpg 12 http://anhdautu.com/tien-do/
+/wp-content/uploads/2017/07/PD-Green-Park-150x150.jpg 11 http://anhdautu.com/tien-do/
+/du-an/js/waypoints-min.js 1 -
+/img/navicon.png 36 http://anhdautu.com/css/style.css
+/du-an/js/jssor.slider-21.1.6.min.js 1 -
+/wp-content/uploads/2017/07/mat-bang-dien-hinh-toa-ip2-imperial-plaza-768x432.png 13 http://anhdautu.com/
+/wp-content/uploads/2017/07/chi-tiet-can-ho-chung-cu-imperial-plaza-768x551.jpg 8 http://anhdautu.com/
+/wp-content/uploads/2017/09/chung-cu-pd-green-park-3-150x150.jpg 10 http://anhdautu.com/tien-do/
+/du-an/js/jquery.prettyPhoto.js 1 -
+/du-an/js/jquery.bxslider.js 1 -
+/wp-login.php 1 -
+/wp-content/uploads/2017/07/khong-gian-xung-quanh-chung-cu-imperial-plaza.jpg 1 http://anhdautu.com/wp-admin/post.php
+/wp-content/uploads/2017/07/mat-bang-chi-tiet-chung-cu-360-giai-phong.png 2 http://anhdautu.com/wp-admin/post.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 90
+113.190.233.128 1164 1968 99324787 20190913171756
+45.252.248.18 43 43 20786 20190912080108
+115.79.199.42 13 68 1598187 20190912151952
+66.249.82.85 10 60 2026202 20190916114417
+66.249.82.87 8 54 1992710 20190916132501
+158.69.26.125 6 6 213866 20190913212723
+66.249.82.86 5 40 1928175 20190916131811
+64.233.173.139 4 22 690800 20190914222549
+27.68.133.131 4 4 71502 20190915154518
+45.252.248.108 4 57 1550384 20190912151809
+1.54.212.137 3 56 2155790 20190912171840
+69.164.111.198 3 24 1281633 20190914180050
+69.58.178.57 3 3 26532 20190913054159
+34.222.229.130 3 3 261 20190911220711
+64.78.149.164 3 3 261 20190911220711
+18.197.227.110 3 3 261 20190911220712
+113.185.43.74 2 54 1804093 20190915125253
+115.79.142.86 2 13 225723 20190911164214
+5.254.70.162 2 54 2140127 20190913064747
+46.101.94.163 2 2 65783 20190913124403
+120.138.68.219 2 3 150606 20190915182512
+113.190.199.116 2 54 2140128 20190912173827
+1.54.194.146 2 55 2424883 20190916101803
+139.99.62.149 2 2 18455 20190911160518
+62.4.14.198 2 2 67065 20190915105206
+64.233.173.138 0 21 750359 
+193.90.12.119 1 1 33237 20190913124403
+54.213.112.105 1 1 9238 20190914084917
+157.230.173.0 1 1 33528 20190915004611
+31.185.104.20 1 1 33237 20190913124403
+171.13.14.36 1 7 61684 20190912013117
+199.30.228.128 0 7 223849 
+62.210.89.11 1 1 31261 20190912022726
+173.252.87.9 0 6 518723 
+173.252.87.14 0 7 62572 
+35.203.252.145 1 31 397597 20190913235530
+171.13.14.43 0 5 27332 
+173.252.87.19 1 24 401759 20190913155800
+199.249.230.81 1 1 0 20190913182428
+173.252.87.35 0 2 343933 
+51.255.109.165 1 1 32910 20190913135121
+173.252.87.48 0 8 376496 
+139.99.122.1 1 1 427 20190911150623
+173.252.79.23 0 1 6450 
+173.252.87.38 1 1 17875 20190913155757
+185.220.70.174 1 1 32546 20190913064018
+79.144.249.239 1 21 295880 20190914131800
+185.220.70.148 1 1 33528 20190915004611
+66.220.149.34 0 1 6450 
+199.30.228.130 1 20 601104 20190912172826
+173.252.127.11 0 1 119560 
+173.252.79.24 0 1 6450 
+155.254.115.75 1 1 33237 20190913124403
+199.30.228.135 0 7 517076 
+66.220.149.5 0 1 6450 
+34.244.124.16 1 1 9207 20190912201258
+185.189.113.36 1 1 33528 20190915004612
+173.252.79.14 0 1 6450 
+203.174.87.98 1 1 33528 20190915004612
+31.28.221.145 1 1 33528 20190916090127
+62.4.14.206 1 1 32546 20190912204217
+103.9.76.198 1 1 32546 20190913064018
+180.93.24.21 2 54 2140127 20190912173228
+171.13.14.59 0 2 9587 
+66.220.149.42 0 1 6450 
+65.154.226.126 2 56 2094624 20190915155128
+109.169.33.163 1 1 33528 20190914023208
+69.28.84.49 1 1 9244 20190914030840
+51.77.129.168 2 56 2094624 20190914173544
+185.137.234.18 1 1 9240 20190916132928
+51.255.109.163 1 1 33533 20190916143346 20190916143346 /
+171.13.14.35 1 8 266622 20190912013125
+3.14.255.131 2 2 174 20190911220712
+199.30.228.134 0 9 354706 
+171.13.14.60 0 2 193100 
+84.51.149.217 1 1 33528 20190915004611
+1.52.195.106 2 54 1804093 20190914200314
+139.99.8.123 1 1 16139 20190913104335
+199.30.228.133 1 11 524294 20190912172831
+171.13.14.62 0 10 173101 
+173.252.127.13 0 1 119560 
+173.252.87.3 0 6 82735 
+58.186.196.70 2 54 1822611 20190915154327
+171.13.14.45 1 3 67349 20190913122446
+64.233.173.137 2 18 680377 20190914222559
+171.13.14.61 0 6 112024 
+34.214.44.248 1 1 9244 20190916085037
+207.241.225.217 1 1 0 20190911160543
+173.252.127.23 0 1 119560 
+70.32.0.97 1 1 32546 20190913064018
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20190911 313 608 10489010 11
+20190912 421 1067 64912915 19
+20190913 549 945 43633403 21
+20190914 26 272 9264592 15
+20190915 22 180 6091016 16
+20190916 15 134 5566865 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 7
+5mn-15mn 3
+0s-30s 73
+30mn-1h 2
+15mn-30mn 1
+30s-2mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 114
+/admin_asset/ckfinder/core/connector/php/connector.php 478 1082138 0 0
+/ 189 2290699 64 48
+/wp-admin/admin-ajax.php 72 301641 0 1
+/du-an/can-ho-chung-cu-flc-tropical-city-ha-long-58.html 44 776524 13 10
+/admin/post 41 316095 0 0
+/installer.php 33 262169 0 0
+/admin/info/1/edit 27 328318 0 0
+/wp-admin/load-scripts.php 21 1495693 0 0
+/admin/page 19 131212 0 0
+/wp-cron.php 19 0 3 4
+/fonts/fontawesome-webfont.woff2 19 1366024 3 13
+/wp-admin/load-styles.php 17 1066655 0 0
+/admin/subcribe 17 158571 0 0
+/admin 17 105499 0 0
+/gioi-thieu.html 16 119508 1 3
+/wp-login.php 15 23714 0 0
+/admin/post/58/edit 15 219941 0 0
+/admin/video 13 86837 0 0
+/admin/menu 12 85822 1 0
+/wp-admin/setup-config.php 11 34172 0 0
+/admin/slide 11 73064 0 0
+/wp-admin/admin.php 8 160802 0 0
+/tam-nhin-su-menh-gia-tri-cot-loi.html 8 49742 0 0
+/du-an.html 8 49337 0 0
+/du-an/du-an-pcc1-thanh-xuan-57.html 7 100672 0 0
+/wp-admin/plugin-install.php 3 44593 0 0
+/239-2/ 1 22969 0 0
+/admin/post/56/edit 1 13174 0 0
+/du-an/tsg-lotus-sai-dong-56.html 1 14196 0 0
+/wp-admin/update-core.php 6 89422 0 0
+/.well-known/acme-challenge/VV61XU1WTFMH8Q5ABSI01W8K7TO33_VW 1 64 0 0
+/du-an/aurora-garden-tam-trinh-54.html 1 14136 0 0
+/.well-known/acme-challenge/a6ALMFVBwO5S_UPNYUcwchpmW3TK78K35N0jEm2xR-0 4 348 0 0
+/wp-admin/index.php 2 24307 0 0
+/admin/slide/24/edit 1 6522 0 0
+/admin/contact 7 44957 0 0
+/.well-known/acme-challenge/69I98AL61UKNCI48TZX68171XICV-QJM 1 64 0 0
+/.well-known/acme-challenge/ZZVAPQA3XP8-EEESOJCRAB21Y9AHG0G- 1 64 0 0
+/wp-admin/themes.php 2 16232 0 0
+/admin/post/55/edit 1 14276 0 0
+/wp/wp-cron.php 1 0 1 0
+/.well-known/acme-challenge/fGeCSRBhwyXL3T-IOcRHOVzTgifkdOCI3TZj7mByXPU 4 348 0 0
+/admin/source 5 32913 0 0
+/.well-known/acme-challenge/BnLFGnrpC-EMJeIKJKM5IsyQt1i9g7_quy_TnwDumrM 4 348 4 0
+/tin-tuc-du-an/ 1 3153 0 0
+/wp-admin/install.php 3 7776 0 0
+/.well-known/acme-challenge/K3T1-5L2N95101H6-NFYNVNAU5PLAGPW 1 64 0 0
+/admin/page/21/edit 1 7102 0 0
+/admin/contact/create 3 20073 0 0
+/wp-admin/update.php 3 17257 0 0
+/.well-known/acme-challenge/SclKkrS-e5-mAw_1jhskmmZTGD_QcbI2FE4uHHrMkdY 3 261 0 0
+/password/reset 2 3017 0 0
+/wp-admin/ 4 66596 0 0
+/.well-known/acme-challenge/NlBl7aC0P2NFnPwN90aXmXyq799D2AJuxS5msdoWG7E 4 348 0 4
+/admin/post/create 4 36263 0 0
+/wp-admin/edit.php 2 28559 0 0
+/admin/post/59/edit 4 37882 0 0
+/wp-admin/about.php 2 29071 0 0
+/wp-content/themes/pdgreenpark/assets/fonts/fontawesome-webfont.woff2 3 231480 1 2
+/admin/post/57/edit 3 39948 0 0
+/.well-known/acme-challenge/M56U48Q5R2RT8S9V-ACX7HXV_XIH4I27 1 64 0 0
+/wp-json/yoast/v1/ryte 1 220 0 0
+/so-do-to-chuc.html 3 18358 0 0
+/wp-admin/customize.php 3 169013 0 0
+/tu-van.html 2 12173 0 0
+/lich-su-hinh-thanh.html 3 18378 0 0
+/lien-he.html 5 30438 0 1
+/admin/admin 2 13440 0 0
+/admin/slide2 3 20119 0 0
+/wp-admin/post.php 1 136183 0 0
+/fonts/fontawesome-webfont.woff 1 90412 0 1
+/fonts/fontawesome-webfont.ttf 1 152796 1 1
+/tu-van-tai-chinh.html 4 24702 1 1
+/admin/register-file 3 21342 0 0
+/admin_asset/ckfinder/ckfinder.html 3 4260 0 0
+/tien-do/ 1 24344 0 0
+/admin/post/53/edit 1 13653 0 0
+/admin_asset/bootstrap/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/wp-admin/plugins.php 6 73979 0 0
+/sitemap.xml 1 4451 0 0
+/.well-known/acme-challenge/AQ8_V0X448S6UG_QJI-37G8CQQ9V8_V8 1 64 1 0
+/wp/ 1 3962 0 0
+/admin/page/create 1 7235 0 0
+/tin-thi-truong.html 4 24468 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 200338 0 0
+/admin/post/52/edit 1 15552 0 0
+/wp-content/plugins/duplicator/assets/webfonts/fa-regular-400.woff2 1 13592 0 0
+/wp-content/plugins/duplicator/assets/webfonts/fa-solid-900.woff2 1 74348 0 0
+/gia-ban/ 1 24550 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2 1 66624 0 0
+/tu-van-noi-that.html 4 24806 0 2
+/400.shtml 1 209 0 0
+/admin/page/22/edit 1 7106 0 0
+/admin/slide/23/edit 5 32680 0 0
+/admin/doitac 4 26451 0 0
+/tam-nhin-su-menh-gia-tri-cot-loi/gioi-thieu-ve-anh-dau-tu-59.html 1 6644 0 0
+/tu-van-phong-thuy.html 2 12592 0 0
+/admin/login 7 11507 0 0
+/wp-json/wp/v2/ 1 68535 0 0
+/2019/09/11/chao-moi-nguoi/ 1 19274 0 0
+/tien-ich-du-an/ 1 26419 0 0
+/.well-known/acme-challenge/h-IHLHfBO_XgDCJoAc5DvRiHEXNHlXCHy4oXGOkqAcY 4 348 0 0
+/admin/page/23/edit 2 14332 0 0
+/admin/customer 3 20810 0 0
+/admin/video/create 3 19443 0 0
+/admin/page/1/edit 3 26022 0 0
+/admin/admin/1/edit 2 13184 0 0
+/tin-tuc.html 3 18184 0 1
+/wp-content/plugins/duplicator/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-json/yoast/v1/statistics 1 479 0 0
+/datxanhvn_3c.sql 1 66068 0 0
+/wp-admin/upgrade.php 4 84 0 1
+/admin/calendar 3 18894 0 0
+/admin/post/54/edit 2 26324 0 0
+END_SIDER

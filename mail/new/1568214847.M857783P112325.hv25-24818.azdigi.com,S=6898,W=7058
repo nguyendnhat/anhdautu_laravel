@@ -1,0 +1,160 @@
+Return-Path: <>
+Delivered-To: anhdautu@hv25-24818.azdigi.com
+Received: from hv25-24818.azdigi.com
+	by hv25-24818.azdigi.com with LMTP
+	id +KOfMj8PeV3FtgEAnggYDQ
+	(envelope-from <>)
+	for <anhdautu@hv25-24818.azdigi.com>; Wed, 11 Sep 2019 22:14:07 +0700
+Return-path: <>
+Envelope-to: anhdautu@hv25-24818.azdigi.com
+Delivery-date: Wed, 11 Sep 2019 22:14:07 +0700
+Received: from anteater.oak.relay.mailchannels.net ([23.83.215.3]:5394)
+	by hv25-24818.azdigi.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	id 1i84Jo-000Vu9-Oh
+	for anhdautu@hv25-24818.azdigi.com; Wed, 11 Sep 2019 22:14:07 +0700
+Received: by relay.mailchannels.net (Postfix)
+	id 34FEA341A23; Wed, 11 Sep 2019 15:13:31 +0000 (UTC)
+Date: Wed, 11 Sep 2019 15:13:31 +0000 (UTC)
+From: MAILER-DAEMON@mailchannels.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: anhdautu@hv25-24818.azdigi.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="75C9A3402C9.1568214811/relay.mailchannels.net"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20190911151331.34FEA341A23@relay.mailchannels.net>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hv25-24818.azdigi.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  This is the mail system at host relay.mailchannels.net. I'm
+    sorry to have to inform you that your message could not be delivered to one
+    or more recipients. It's attached below. For further assistance, please send
+    mail to postmaster. 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mailchannels.net]
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--75C9A3402C9.1568214811/relay.mailchannels.net
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host relay.mailchannels.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<tanhnaht@gmail.com>: host alt1.gmail-smtp-in.l.google.com[173.194.192.27]
+    said: 421-4.7.0 This message does not have authentication information or
+    fails to pass 421-4.7.0 authentication checks. To best protect our users
+    from spam, the 421-4.7.0 message has been blocked. Please visit 421-4.7.0
+    https://support.google.com/mail/answer/81126#authentication for more 421
+    4.7.0 information. m8si25539287iob.136 - gsmtp (in reply to end of DATA
+    command)
+
+--75C9A3402C9.1568214811/relay.mailchannels.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 8bit
+
+Reporting-MTA: dns; relay.mailchannels.net
+X-Postfix-Queue-ID: 75C9A3402C9
+X-Postfix-Sender: rfc822; anhdautu@hv25-24818.azdigi.com
+Arrival-Date: Wed, 11 Sep 2019 08:29:21 +0000 (UTC)
+
+Final-Recipient: rfc822; tanhnaht@gmail.com
+Original-Recipient: rfc822;tanhnaht@gmail.com
+Action: failed
+Status: 4.7.0
+Remote-MTA: dns; alt1.gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 421-4.7.0 This message does not have authentication
+    information or fails to pass 421-4.7.0 authentication checks. To best
+    protect our users from spam, the 421-4.7.0 message has been blocked. Please
+    visit 421-4.7.0
+    https://support.google.com/mail/answer/81126#authentication for more 421
+    4.7.0 information. m8si25539287iob.136 - gsmtp
+
+--75C9A3402C9.1568214811/relay.mailchannels.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <anhdautu@hv25-24818.azdigi.com>
+Received: from relay.mailchannels.net (localhost [127.0.0.1])
+	by relay.mailchannels.net (Postfix) with ESMTP id 75C9A3402C9
+	for <tanhnaht@gmail.com>; Wed, 11 Sep 2019 08:29:21 +0000 (UTC)
+Received: from hv25-24818.azdigi.com (100-96-169-13.trex.outbound.svc.cluster.local [100.96.169.13])
+	(Authenticated sender: congtycophanazdigi)
+	by relay.mailchannels.net (Postfix) with ESMTPA id 4C9A4340C6B
+	for <tanhnaht@gmail.com>; Wed, 11 Sep 2019 08:29:20 +0000 (UTC)
+X-Sender-Id: congtycophanazdigi|x-authuser|anhdautu@hv25-24818.azdigi.com
+Received: from hv25-24818.azdigi.com ([TEMPUNAVAIL]. [45.252.248.18])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384)
+	by 0.0.0.0:2500 (trex/5.17.5);
+	Wed, 11 Sep 2019 08:29:21 +0000
+X-MC-Relay: Neutral
+X-MailChannels-SenderId:
+ congtycophanazdigi|x-authuser|anhdautu@hv25-24818.azdigi.com
+X-MailChannels-Auth-Id: congtycophanazdigi
+X-White-Grain: 686b009a1221629d_1568190561147_1337201026
+X-MC-Loop-Signature: 1568190561147:2330634902
+X-MC-Ingress-Time: 1568190561146
+Received: from anhdautu by hv25-24818.azdigi.com with local (Exim 4.92)
+	(envelope-from <anhdautu@hv25-24818.azdigi.com>)
+	id 1i7xzi-0000zy-Im
+	for tanhnaht@gmail.com; Wed, 11 Sep 2019 15:28:54 +0700
+To: tanhnaht@gmail.com
+Subject: =?UTF-8?B?TmV3IEluc3RhbGxhdGlvbiBvZiBXb3JkUHJlc3M=?=
+X-PHP-Script: hv25-24818.azdigi.com/usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/index.live.php for 113.190.233.128
+X-PHP-Originating-Script: 0:mail_functions.php
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+From: Softaculous <support@thachpham.com>
+Reply-To: support@thachpham.com
+X-Mailer: PHP/7.2.7
+Message-Id: <E1i7xzi-0000zy-Im@hv25-24818.azdigi.com>
+Date: Wed, 11 Sep 2019 15:28:54 +0700
+X-AuthUser: anhdautu@hv25-24818.azdigi.com
+
+A new installation of WordPress 5.2.3 has been completed. The details of the installation are shown below:
+Path : /home/anhdautu/public_html
+URL : http://anhdautu.com
+Admin URL : http://anhdautu.com/wp-admin/
+Admin Username : anhphan14
+Admin Password : ********
+Admin Email: phananh@anhdautu.com
+MySQL Database : anhdautu_wppanh
+MySQL DB User : anhdautu_wppanh
+MySQL DB Host : localhost
+MySQL DB Password : ********
+Update Notification : Enabled
+Auto Upgrade : Disabled
+Automated Backups : Disabled
+Time of Installation : September 11, 2019, 3:28 pm
+
+If you wish to unsubscribe from such emails, go to your Control Panel -> Softaculous -> Email Settings
+
+
+--75C9A3402C9.1568214811/relay.mailchannels.net--

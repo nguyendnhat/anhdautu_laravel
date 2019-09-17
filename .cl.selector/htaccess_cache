@@ -1,0 +1,6 @@
+[/home/anhdautu/public_html]
+htaccess_list = /home/anhdautu/public_html/.htaccess
+
+[/home/anhdautu/vimerfulands.com]
+htaccess_list = /home/anhdautu/vimerfulands.com/cgi-bin/.htaccess,/home/anhdautu/vimerfulands.com/.htaccess
+
